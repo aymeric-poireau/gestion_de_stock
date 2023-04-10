@@ -63,7 +63,7 @@ CREATE TABLE 'produits` (
 
 LOCK TABLES 'produits' WRITE;
 /*!40000 ALTER TABLE 'produits' DÉSACTIVER KEYS */;
-INSÉRER DANS 'produits' VALUES (1,'Chemise en lin','Chemise aerer qui porte chaud l hiver',2,50,1),(11,'Chemise en jean','Une chemise en jean est generalement faite de denim plus ou moins epais Ainsi il existe différents modeles adaptes pour chaque saison',40,25,14),(23,'Chemise en polyester' ,'le polyester est une alternative de plus en plus vogue dans l industrie textile',800,25,16),(25,'Chemise en chambray','Ce tissu est plus leger et respirant que le denim et possede un tissage lisse et serre',820,25,16);
+INSÉRER DANS 'produits' VALUES (1,'Chemise en lin','Chemise aerer qui porte chaud l hiver',2,50,1),(11,'Chemise en jean','Une chemise en jean est generalement faite de denim plus ou moins epais Ainsi il existe différents modeles adaptes pour chaque saison',40,25,14),(23,'Chemise en polyester' ,'le polyester est une alternative de plus en plus vogue dans l industrie textile',800,25,16),(25,'Chemise en chambray','Ce tissu est plus lege et respirant que le denim et possede un tissage lisse et serre',820,25,16);
 /*!40000 ALTER TABLE 'produits' ACTIVER KEYS */;
 DÉVERROUILLER LES TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
